@@ -1,0 +1,16 @@
+https://github.com/mattharrison/pearson-pandas-best-practices/blob/main/pandas-best-practices.ipynb
+
+https://medium.com/@agusmahari/pandas-best-practices-for-writing-clean-code-in-pandas-5b378ba757af
+
+https://www.kaggle.com/code/faressayah/data-science-best-practices-with-pandas-part-1
+
+https://www.kaggle.com/code/faressayah/data-science-best-practices-with-pandas-2-0-p2
+
+https://github.com/Kanaries/pygwalker
+
+https://github.com/Joanna-Khek/effective-pandas/blob/main/4-series-intro.ipynb
+
+https://chengzhaoxi.xyz/download/pdf/book/Effective_Pandas_Patterns_for_Data_Manipulation.pdf
+
+https://ilias-docs.docs.cern.ch/software/pandas/pandas_good_practices/
+
