@@ -1,0 +1,1 @@
+https://sparkbyexamples.com/pandas/pandas-iterate-over-columns-of-dataframe-to-run-regression/#google_vignette
